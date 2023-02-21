@@ -1,7 +1,7 @@
 package Notify
 
 import (
-	"github.com/aceld/zinx/ziface"
+	"github.com/lianglijin/zinx/ziface"
 )
 
 //建立一个用户自定义ID和连接映射的结构

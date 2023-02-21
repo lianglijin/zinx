@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/aceld/zinx/ziface"
+	"github.com/lianglijin/zinx/ziface"
 )
 
 type Config struct {

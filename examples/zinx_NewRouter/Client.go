@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/aceld/zinx/ziface"
-	"github.com/aceld/zinx/zpack"
+	"github.com/lianglijin/zinx/ziface"
+	"github.com/lianglijin/zinx/zpack"
 	"io"
 	"net"
 	"time"

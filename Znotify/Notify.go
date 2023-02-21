@@ -3,7 +3,7 @@ package Notify
 import (
 	"errors"
 	"fmt"
-	"github.com/aceld/zinx/ziface"
+	"github.com/lianglijin/zinx/ziface"
 	"sync"
 )
 

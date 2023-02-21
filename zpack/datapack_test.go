@@ -2,7 +2,7 @@ package zpack
 
 import (
 	"fmt"
-	"github.com/aceld/zinx/ziface"
+	"github.com/lianglijin/zinx/ziface"
 	"io"
 	"net"
 	"testing"

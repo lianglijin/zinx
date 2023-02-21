@@ -3,11 +3,11 @@ package api
 import (
 	"fmt"
 
-	"github.com/aceld/zinx/ziface"
-	"github.com/aceld/zinx/zinx_app_demo/mmo_game/core"
-	"github.com/aceld/zinx/zinx_app_demo/mmo_game/pb"
-	"github.com/aceld/zinx/znet"
 	"github.com/golang/protobuf/proto"
+	"github.com/lianglijin/zinx/ziface"
+	"github.com/lianglijin/zinx/zinx_app_demo/mmo_game/core"
+	"github.com/lianglijin/zinx/zinx_app_demo/mmo_game/pb"
+	"github.com/lianglijin/zinx/znet"
 )
 
 //玩家移动
